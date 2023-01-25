@@ -1,6 +1,6 @@
-# Distributed and Parallel Computing
+# Parallel Computing Architecture and Programming tasks
 
-[![Language](https://img.shields.io/badge/Language-C-green.svg)](https://shields.io/) [![Hadoop](https://img.shields.io/badge/Hadoop-2.7.2-blue.svg)](https://shields.io/)
+[![Language](https://img.shields.io/badge/Language-C-green.svg)](https://shields.io/)
 
 ## Matrix Multiplication - pThread
 
